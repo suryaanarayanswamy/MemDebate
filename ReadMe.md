@@ -1,4 +1,4 @@
-# MemDebate 🧠⚖️
+# MemDebate 
 
 **A Debate-Driven Memory Curation Architecture for Hallucination-Resistant LLM Agents**
 
