@@ -133,7 +133,7 @@ where `α = 0.7` by default, ensuring verified high-confidence facts are priorit
 
 ## Architecture
 
-![MemDebate System Architecture](figures/fig_architecture.png)
+![MemDebate System Architecture](figures/mem1.png)
 
 ---
 
